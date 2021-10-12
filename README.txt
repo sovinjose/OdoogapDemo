@@ -4,8 +4,8 @@ Requirements (Prerequisites)
 -------------------------------------------------------------------------
 The first thing to do is to clone the repository:
 
-$ git https://github.com/
-$ cd odoogap_demo
+$ git clone https://github.com/sovinjose/OdoogapDemo.git
+$ cd OdoogapDemo
 
 
 Installation
